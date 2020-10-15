@@ -6,6 +6,11 @@ public class Demoo {
 		System.out.println("Hello");
 		System.out.println("htrydgvvjgytvyjv");
 		System.out.println("hvtdc");
+		rtdredkhjb 
+		
+		kvyfvy
+		'\'
 	}
 
 }
+iigi7fg\\kjbyv
